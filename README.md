@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! I am Neliswa, a passionate front-end developer. I am currently working on improving my skills in HTML, CSS, and JavaScript. I enjoy creating user-friendly and responsive web applications.[![](https://visitcount.itsvg.in/api?id=Simplyneliswa&icon=6&color=0)](https://visitcount.itsvg.in)
+<div>  <a href="#">    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />  </a></div><p align="center">     <a href="https://github.com/getintorj/readme-typing-svg">    <img src="https://readme-typing-svg.demolab.com/?lines=Neliswayisipho%20Maduma%20;web%20developer%20;%20Front-end%20Developer;%20Html,Css,javascript%20&font=Fira%20Code&center=true&width=440&height=45&color=FF1493&vCenter=true&pause=1000&size=22" /></a></p>
+### I am currently working on:- Enhancing my portfolio website using React- Learning advanced JavaScript concepts- Contributing to open-source projects
+![user](https://github.com/user-attachments/assets/29ffb651-2335-4296-bba1-0ad7400828cb)
+<div>  <a href="#">    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />  </a></div>
 
-<!--
-**Simplyneliswa/Simplyneliswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials:[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neliswayisipho%20maduma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Neliswayisipho%20maduma)
 
-Here are some ideas to get you started:
+# Tech Stack:![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)# GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=Simplyneliswa&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Simplyneliswa&theme=jolly&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simplyneliswa&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Trophies![](https://github-profile-trophy.vercel.app/?username=Simplyneliswa&theme=radical&no-frame=false&no-bg=false&margin-w=4)![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/2274ca14-12fc-4b9c-9e27-773a73ac5bf3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Top Contributed Repo![](https://github-contributor-stats.vercel.app/api?username=Simplyneliswa&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in
